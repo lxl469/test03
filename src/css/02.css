@@ -1,0 +1,14 @@
+#div2 {
+    width: 200px;
+    height: 200px;
+    border: 1px solid seashell;
+    text-align: center;
+}
+
+.index3 {
+    border-left: 1px solid #499;
+    border-right: 1px solid red;
+    border-bottom: 1px solid blue;
+    border-top: 1px solid saddlebrown;
+    box-sizing: border-box;
+}

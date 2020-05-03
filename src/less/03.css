@@ -1,0 +1,12 @@
+.index1 {
+  background: purple;
+}
+.index1 > .index3 {
+  width: 50px;
+  height: 50px;
+  background: pink;
+}
+.index2 {
+  background: orange;
+}
+/*# sourceMappingURL=03.css.map */

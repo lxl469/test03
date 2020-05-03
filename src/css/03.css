@@ -1,0 +1,11 @@
+.index1 {
+  background: purple;
+}
+.index1 > .index3 {
+  width: 50px;
+  height: 50px;
+  background: green;
+}
+.index2 {
+  background: red;
+}
